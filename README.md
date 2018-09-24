@@ -1,2 +1,1 @@
-# Breast_Cancer_Classification
-A data-set for breast cancer classification and a python script for model creation
+This Data-set has 30 explanatory variables and 1 response variable. The Run.py file uses 3 different methods to project whether a tumor is malignant or benign on out of sample data. Models include an OLS regression, Tensorflow neural network, and pyrenn neural network. The data-set is small, so overfitting is possible and accuracy results are less than ideal.
